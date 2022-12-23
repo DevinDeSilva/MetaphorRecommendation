@@ -1,3 +1,4 @@
-001 - මගෙ ජීවිනේ
-002 - හිතුවෙවත්‌ නැති දවසක
-003 - 
+001 - මගෙ ජීවිනේ - Mage Jeewithe 
+002 - හිතුවෙවත්‌ නැති දවසක - Hithuweth Nathi Dawasaka
+003 - රැස් විහිදෙන සමනලියකගෙන් - Ras Wihidena Saamanaliyekagen
+004 - 
