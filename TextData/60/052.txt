@@ -24,3 +24,5 @@
 8. Metaphors:-
 a. ප්‍රේමය නම්‌ රාගයෙන්‌ තොර ~ සඳ එළිය සේ අචින්ත්‍යයි.
 Meaning - Love is pure and gentle (like moonlight).
+source domain - moonlight
+target domain - pure love

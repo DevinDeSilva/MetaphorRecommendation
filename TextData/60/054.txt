@@ -42,6 +42,10 @@
 8. Metaphors:-
 a. මෑණියනී හද සෙවණ ගෙනෙන නිවන ඔබ තමා.
 Meaning - Mother you brighten up my world gently.
+source domain - moonlight
+target domain - gentle mother 
 
 b. මා ළයෙහී සුව මිහිර මවන පහන ඔබ තමා
 Meaning - You bring comfort to me (like a lamp).
+source domain - lamp
+target domain - mother

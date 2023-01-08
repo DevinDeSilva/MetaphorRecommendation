@@ -50,3 +50,5 @@
 8. Metaphors:-
 a. දිල්හානී දුවනී දුවනී නාඩා නිදියන්නේ නිවසට සුරතල්‌ ආලොකය දී
 Meaning - Dilhani my daughter you brighten the house.
+source domain - light
+target domain - daughter

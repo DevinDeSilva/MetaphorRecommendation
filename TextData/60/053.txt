@@ -34,6 +34,10 @@
 8. Metaphors:-
 a. එය සඟවාගෙන බිළිඳු වෙසින් ආ වස්තුව ඔබය පුතේ.
 Meaning - My son you are so precious.
+source domain - Precious object
+target domain - child
 
 b. පරෙවි දෙපා වැනි සුලලිත කෝමල සුමුදු ටිකිරි දෑතේ
 Meaning - small white hands (like pigeon feet).
+source domain - pigeon feet
+target domain - hands

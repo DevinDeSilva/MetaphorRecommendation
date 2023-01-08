@@ -44,3 +44,5 @@
 8. Metaphors:-
 a. අහසේ දිලී තරුවැල්‌ සයුරේ එතී දියරැල්‌ කුසුමන්‌ පිපී මල්‌ චැල්‌ ලංකාර වේ.
 Meaning - your beauty is stunning (like the stars in the sky, waves in the ocean, flower).
+source domain - like the stars in the sky, waves in the ocean, flower
+target domain - beauty

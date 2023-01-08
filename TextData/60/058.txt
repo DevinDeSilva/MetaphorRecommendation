@@ -36,3 +36,5 @@
 8. Metaphors:-
 a. ගීයක්‌ වාගේ ලස්සන ලොකේ.
 Meaning - A world beautiful as a song.
+source domain - song
+target domain - beauty of the world

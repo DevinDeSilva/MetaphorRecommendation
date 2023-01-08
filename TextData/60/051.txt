@@ -75,3 +75,5 @@
 8. Metaphors:-
 a. තරැ රෑනේ නෙත් ඇහැරී මග පානා මිණිපහනක් වාගේ.
 Meaning - Eyes sparkle like lantern among stars.
+source domain - lantern among stars
+target domain - eyes

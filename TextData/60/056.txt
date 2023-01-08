@@ -35,3 +35,5 @@
 8. Metaphors:-
 a. සුරගන චෙස්‌ වලා.
 Meaning - looking like a goddess.
+source domain - goddess
+target domain - lover
