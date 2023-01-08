@@ -46,3 +46,5 @@
 8. Metaphors:-
 a. හීන වස්සානේ මේ ජීවිතේ මගේ
 Meaning - My life is a daydream.
+source domain - dreams
+target domain - life

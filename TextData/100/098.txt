@@ -39,6 +39,10 @@
 8. Metaphors:-
 a. හිතේ පිපුන මල්‌ යායේ මලක්‌ මලක්‌ ගානේ මගේ කියා විඳගන්නට ඔබේ සුවඳ නෑනේ
 Meaning - There are so many people and yet you are not mine
+source domain - flowers
+target domain - lover
 
 b. මගේ ආදරේ සමනොල ගිර පරදනවානේ
 Meaning -  My love is higher than a mountain.
+source domain - samanala mountain
+target domain - height of my love

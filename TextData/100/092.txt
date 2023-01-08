@@ -51,3 +51,5 @@
 8. Metaphors:-
 a.) අන්සතු මලකට ඇසි ලොබකම්‌
 Meaning - I'm jelouse that she is not mine
+source domain - flower not belonging to be
+target domain - jelousy

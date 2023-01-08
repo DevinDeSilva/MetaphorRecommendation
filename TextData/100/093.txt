@@ -38,10 +38,16 @@
  
 8. Metaphors:-
 a.) බඹර වගේ විසේකාරයා
-Meaning - I am vhoatic like a hornet
+Meaning - I am choatic like a hornet
+source domain - hornet
+target domain - choatic
 
 b.) සමනළය වාගේ මම හැඩකාරයා
 Meaning - I look good like a butterfly
+source domain - butterfly
+target domain - goodlooking
 
 c.)මී මැස්ස වගේ හරි වැඩකාරයා
 Meaning - I work hard like a bee
+source domain - bee
+target domain - hardworking

@@ -43,4 +43,6 @@
 
 8. Metaphors:-
 a.වසත්‌ කාලය මනරම්‌ ඔබ මලක්‌ වෙනවා නම්‌
-Meaning - Live is beautiful with you init.
+Meaning - Life is beautiful with you init.
+source domain - flower in summer 
+target domain - you

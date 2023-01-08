@@ -38,3 +38,5 @@
 8. Metaphors:-
 a. හිරු අවදිවන්නට එපා
 Meaning - Dont become morning so soon.
+source domain - waking up
+target domain - sunrise

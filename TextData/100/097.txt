@@ -38,6 +38,10 @@
 8. Metaphors:-
 a. බැද්දේ පිපුණු තනි පින්න මලට විස බමර බැල්ම නාකයි
 Meaning - Beautiful people attract unwanted attention.
+source domain - flowers attract hornets
+target domain - unwanted attention
 
 b. අනේ එක පින්බරව බැල්මක්‌ හෙලන්‌ ලද හිත්‌ මලක්‌ පීදෙයි
 Meaning - You looking at me makes me happy.
+source domain - blooming flower
+target domain - my heart

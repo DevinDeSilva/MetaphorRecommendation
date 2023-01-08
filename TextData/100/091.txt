@@ -39,3 +39,5 @@
 8. Metaphors:-
 a.) අළු යට ගිනි වැනි හිතුවිලි
 Meaning - My thoughts are burning within
+source domain - fire embers
+target domain - thoughts
