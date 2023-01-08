@@ -40,3 +40,5 @@
 8. Metaphors:-
 a. සවන පුරා නිදින තුරා ඔබගේ ගී හඩින්නේ මත්වුනේ මා
 Meaning - I got hooked on your music when I sleep.
+source domain - drunked
+target domain - your songs

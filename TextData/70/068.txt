@@ -33,3 +33,5 @@
 8. Metaphors:-
 a. තිළිණේ ලෙසින්‌ පිළිගන්චමි ඉටි මල්‌ මිටක්‌ මා සැදු පරවී නොයේ ඒ මල්‌ සැලේ මගේ ආදරේ ඒ වගේ
 Meaning - My love will never end (like a plastic flower that never dies).
+source domain - plastic flowers
+target domain - never dying love

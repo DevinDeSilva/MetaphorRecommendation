@@ -31,3 +31,5 @@
 8. Metaphors:-
 a. සඳයි තරුයි රැයයි හිරුයි මගේ මේ ලොවේ මමයි ඔබයි අපේ සිතයි සදා වෙන්‌ නොවේ
 Meaning - You and I will not seperate just like the moon and stars always being in the world.
+source domain - permennet as the sun and moon
+target domain - no seperate

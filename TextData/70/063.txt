@@ -52,3 +52,5 @@
 8. Metaphors:-
 a. මාවතේ අපේ ජීවිතේ දහවලේ සිහිනයක්‌ කලා
 Meaning - Made our life story like a daydream.
+source domain - daydream
+target domain - lifestory

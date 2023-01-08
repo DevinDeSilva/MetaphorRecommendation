@@ -44,3 +44,5 @@
 8. Metaphors:-
 a. මල්‌ පැණි බොන්නට පොරකන මී මැසි රංචුව චාගේ ඇගෙ රතැගිලි සැලෙන හැටි අගේ
 Meaning - A fingers move wuickly and beautifully (like bees fighting to drink honey).
+source domain - bees fighting to drink honey
+target domain - finger movement

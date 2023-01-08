@@ -32,6 +32,10 @@
 8. Metaphors:-
 a. සිතට නැගෙන සිතුවිලි මල්‌ රේණු වගේ.
 Meaning - Our thoughts were sweet (like the flower stomata).
+source domain - flowers stomata
+target domain - thoughts
 
 b. දභකාර වැහි පොදක්‌ වගේ අප හද සිතුවිලි මේ සුන්දර ලොව දුටුවේ.
 Meaning - we suddenly started loving each other (likr the start of rain).
+source domain - start of rain
+target domain - love

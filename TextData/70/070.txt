@@ -35,8 +35,7 @@
 7. Year - 2001
 
 8. Metaphors:-
-a. සිතට නැගෙන සිතුවිලි මල්‌ රේණු වගේ.
-Meaning - Our thoughts were sweet (like the flower stomata).
-
-b. දභකාර වැහි පොදක්‌ වගේ අප හද සිතුවිලි මේ සුන්දර ලොව දුටුවේ.
-Meaning - we suddenly started loving each other (likr the start of rain).
+a. පැණි රස සේ දුක්‌ විඳ ගෙන.
+Meaning - accepting the bad with happiness.
+source domain - honey taste
+target domain - pain

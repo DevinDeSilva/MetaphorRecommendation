@@ -63,6 +63,10 @@
 8. Metaphors:-
 a. මල්‌ වගේ සිනාසුණු කෙල්ලන්‌ හා මතකයි මගෙ බාලේ
 Meaning - I can remember the innocent gitls in my youth(like flower).
+source domain - flowers
+target domain - girls
 
 b. ඉමක්‌ කොණක්‌ නැති අහස වගේ කෙළිලොල්‌ දිවිය මගේ
 Meaning - The endless fun of our childhood(like the cornerless sky).
+source domain - cornerless sky
+target domain - endless fun
