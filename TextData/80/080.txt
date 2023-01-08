@@ -42,6 +42,10 @@
 8. Metaphors:-
 a. නුඹ සඳක් වෙලා පායා මට එලිය වුනු වගයි‌.
 Meaning - You light up my life like the moon.
+source domain - moon
+target domain - lover
 
 b. නුඹ සඳක් සේම බැස යයි මට අයිති කළුවරයි
 Meaning - You don't belong just to me (like the moon).
+source domain - moon setting
+target domain - lover

@@ -38,3 +38,5 @@
 8. Metaphors:-
 a. චන්ද්‍රයා සේ පායනා.
 Meaning - you shine like the moon.
+source domain - moon
+target domain - lover

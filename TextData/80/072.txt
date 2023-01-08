@@ -40,3 +40,5 @@
 8. Metaphors:-
 a. හඳ පානක්‌ චූයේ නුඹ නොවෙදෝ මා සිත්‌ අහසට.
 Meaning - You were the brightest thing in my life (like the moon for the sky).
+source domain - moonrise in the sky
+target domain - brightened my heart

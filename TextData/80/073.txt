@@ -56,3 +56,5 @@
 8. Metaphors:-
 a. කුමරුවනේ මා ඒ වසන්තයයි.
 Meaning - I am excited/feeling as the spring.
+source domain - spring
+target domain - me

@@ -44,3 +44,5 @@
 8. Metaphors:-
 a. ලියතඹරා මල ඔබද ලදේ.
 Meaning - You look as beautiful as a Narilatha flower.
+source domain - narilatha flower
+target domain - lover

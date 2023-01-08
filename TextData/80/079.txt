@@ -36,6 +36,10 @@
 8. Metaphors:-
 a. ඇතෙක් වගේ තනිමංසල බයක් නැතුව යන්නයි‌.
 Meaning - Not scared to go alone because of the strength (like an elephant).
+source domain - elephant
+target domain - son
 
 b. කොතක් වගේ සතර දිගට පෙනෙන්න බැබලෙන්නයි‌.
 Meaning - let my boy shine for all to see (like a kotha in stupa).
+source domain - kotha in stupa
+target domain - son

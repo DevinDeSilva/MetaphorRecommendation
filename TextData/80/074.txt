@@ -41,3 +41,5 @@
 8. Metaphors:-
 a. හෙමි හෙමින්‌ නැවතිලා තව හිතුචොනින්‌ ඇත්තමයි නුඹ මගේ අහසම තරම්‌.
 Meaning - You are my everything like the sky.
+source domain - Sky
+target domain - Lover

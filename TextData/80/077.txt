@@ -42,3 +42,5 @@
 8. Metaphors:-
 a. එන පාළොස්වක පෝය දා ට හඳ වාගේ ඔබ දකින්න අම්මෙ මට කුරුළු පිහාටුවක් එවන්න 
 Meaning - you brighten my world mother, so help me come back home.
+source domain - full moon
+target domain - bring hope

@@ -37,9 +37,15 @@
 8. Metaphors:-
 a. ගිමන නිවන සිහිලැල්‌ ගගුලක්‌ සේ (ඉර පායා ඇත).
 Meaning - The sunrise bought a sense of hope and beauty.
+source domain - river 
+target domain - sunrise
 
 b. දසත දිවෙන මහනෙල්‌ සුචදක්‌ සේ (ඉර පායා ඇත).
-Meaning - The sunrise bought a sense of hope and beauty.
+Meaning - Like the manel flowers everywhere.
+source domain - manel flowers everywhere
+target domain - sunrise
 
 c. දැවෙන ගතට සුව දෙන ඔසුවක්‌ සේ (ඉර පායා ඇත).
-Meaning - The sunrise bought a sense of hope and beauty.
+Meaning - like a spring that gives relief to a tired body the sun has risen.
+source domain - water spring
+target domain - sunrise

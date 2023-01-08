@@ -31,3 +31,5 @@
 8. Metaphors:-
 a. සිගිරි අප්සරාව කැන්දන්‌ ඒන්නට
 Meaning - I want to bring this beautiful girl home (she like Sigiri drawing).
+source domain - sigiri drawing
+target domain - lover
