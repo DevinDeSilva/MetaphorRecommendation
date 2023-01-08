@@ -68,6 +68,12 @@
 8. Metaphors:-
 a. ඔබගෙන් සඟවා සිටිනා සෑමදා පරලොවකට සම වූවා මේ ජීවිතේ
 Meaning - Hiding the truth from you made my life like hell.
+source domain - Hell
+target domain - Life
+category - Friendship
 
 b. සොයුරන් සේ.. අප හැදී වැඩී.. හෝ.. කිසිදාවත්.. නෑ සිටියේ වෙන් වී
 Meaning - we grew up never apart, like brothers
+source domain - brothers
+target domain - friendship
+category - friendship

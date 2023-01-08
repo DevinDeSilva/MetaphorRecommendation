@@ -59,9 +59,18 @@
 8. Metaphors:-
 a. ඔබ ගෙන ආ සෙනෙහස මුදු පවනේ රැඳි සිසිලක් ලෙසින්
 Meaning - The love you gave is gentle (like a gentle breeze).
+source domain - breeze
+target domain - love
+category - Love
 
 b. වසන්තයයි මාගේ දෙතොලේ සිහිවන්නේ ඔබෙ මුව හමුවේ
 Meaning - when I kiss you it feels like the sprint.
+source domain - spring
+target domain - kiss
+category - Love
 
 c. කඳුලැල් දිය දහරා නෙතඟින් නොකැඩී ගලා ගියේ මා තනි වී සිසිරෙන් මුවා වූ වසන්තේ උදාවූ ලෙසේ
 Meaning - I cried a lot when I was alone. (Like the water flowing after winter ends and spring starts)
+source domain - water flowing after winter ends and spring starts
+target domain - Crying
+category - Pain

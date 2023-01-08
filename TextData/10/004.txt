@@ -47,3 +47,6 @@
 8. Metaphors:-
 a. ගිණි කඳු පුපුරා ලො දිය ගලනා තරම්‌ රිඳුම්‌ දෙයි ආදරේ
 Meaning - Love hurts like hell.
+source domain - Volcano Eruption
+target domain - Mental pain
+category - Pain

@@ -39,6 +39,12 @@
 8. Metaphors:-
 a. තරු මිලින වෙලා සඳු නෑ අද මගෙ ලොකෙ
 Meaning - I am sad as I have lost my happiness.
+source domain - Moon
+target domain - Lover
+category - Love
 
 b. තව එක මොහොතක්‌ නුබෙ සෙනෙහේ මගෙ වේනම්‌ තරු අතූරා අහසේ සරසන්නම්‌
 Meaning - I will do anything for your love becomes mine one more time.
+source domain - stars in sky
+target domain - Effort
+category - Love

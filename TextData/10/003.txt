@@ -68,6 +68,12 @@
 8. Metaphors:-
 a. රැස් විහිදෙන සමනලියකගෙන් ඉගියක් ලැබුනාම
 Meaning - A beautiful girl gets interested in you.
+source domain - radiant butterfly
+target domain - Lover
+category - Love
 
 b. දිරි දෙන්නම් මුළු හද පත්ලෙන් මහමෙර සේම
 Meaning - Will give you encouragement(like the ocean).
+source domain - Ocean
+target domain - Effort
+category - Love

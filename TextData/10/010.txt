@@ -43,6 +43,12 @@
 8. Metaphors:-
 a. රෑ අභසේ තරු දිලෙන තරම්‌ මා මනසේ ඔබ රැදෙනවනම්‌
 Meaning - You are always on my mind (like the stars in the night sky).
+source domain - Star Shine
+target domain - You stay in my mind
+category - Love
 
 b. සමනළයනී ඉගිල එන්න නුබලට හැකිනම්‌ පන්හිද ළගංතනි වෙනකොට මා ලියනා කවි ගී වැල්‌ ඈතට ගෙනහින්‌ ඇයට ඇහිද ගන්න දුරක වීසී කරාපන්‌.
 Meaning - I hope that she hears the songs and poems I write.
+source domain - Butterflies carrying songs
+target domain - Hearing his songs
+category - Love

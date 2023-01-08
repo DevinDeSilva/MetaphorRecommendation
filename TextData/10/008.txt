@@ -50,4 +50,7 @@
 
 8. Metaphors:-
 a. මල් පැන් පොදක් කිනිත්තක් අගින් ඉසින්නා වගෙයි මට ඔබේ ආදරේ
-Meaning - Your love for me is like a bouquet of flowers.
+Meaning - Your love for me is feels so gentle.
+source domain - spring water droplets
+target domain - Love
+category - Love

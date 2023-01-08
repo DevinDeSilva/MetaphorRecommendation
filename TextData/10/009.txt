@@ -36,3 +36,6 @@
 8. Metaphors:-
 a. සංසාරේ පතා ආපු මගේ ආදරෙ මදි උනාද
 Meaning - You broke up even though I felt our love was destined to be.
+source domain - samsara
+target domain - destined love
+category - Love

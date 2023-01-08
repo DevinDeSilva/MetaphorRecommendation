@@ -37,3 +37,6 @@
 8. Metaphors:-
 a. සමනල්ලු ඉහ හැරුණු අත ගියා අපි ආයේ නොයෙනා නිසා
 Meaning - Love is lost as we won't meet again.
+source domain - Butterfly flight
+target domain - drifting apart
+category - Pain
