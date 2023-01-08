@@ -34,3 +34,5 @@
 8. Metaphors:-
 a. පාන නිවුන සේ පාළුයි ලැයිම් කාමරේ‌.
 Meaning - its lonely in the room (like an unlit lamp).
+source domain - unlit lamp
+target domain - lonely room

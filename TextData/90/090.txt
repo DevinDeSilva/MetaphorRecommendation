@@ -40,6 +40,10 @@
 8. Metaphors:-
 a. සී සීකඩ විසිරුනු හිතුවිලි දියබුබුලේ නලියන පෙනකැටි වාගේ, නැතිවේ
 Meaning - Dreams we have are scattered and chaotic
+source domain - bubbles
+target domain - dreams
 
 b. හුදකලාවෙ තනිවී හිටියම සිහින ආකරේක වැටුනා වාගේ, නිමක් නෑ
 Meaning - When I'm alone I daydream a lot.
+source domain - dreams
+target domain - unresting mind

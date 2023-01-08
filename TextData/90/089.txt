@@ -48,3 +48,5 @@
 8. Metaphors:-
 a. පුළුලුකුලට ඇලවුණු දිය රෙද්ද වගේ තෙත කොණ්ඩය බිම ගෑවේ නුඹේ හැඩට හැඩේ
 Meaning - You have beautiful long wet hear .
+source domain - wet clothe
+target domain - wet hair

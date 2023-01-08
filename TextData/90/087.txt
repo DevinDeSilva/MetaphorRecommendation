@@ -39,6 +39,10 @@
 8. Metaphors:-
 a. තනි ඇතා සේ හිතින් හිතපු මල් වියේ අරුමේ
 Meaning - Feeling lonely like a lone elephant.
+source domain - lone elephant
+target domain - loneliness
 
 b. අවේලාවක පෑයු තරුවී පෑ බැලුම් හින්දා..
 Meaning - we looked at each other in the dead of night.
+source domain - stars
+target domain - looking at night

@@ -36,9 +36,15 @@
 8. Metaphors:-
 a. ඔබ මලක් වෙලා වන අරණේ පිපේවී
 Meaning - You bloom as a flower.
+source domain - flower
+target domain - lover
 
 b. මා සුළං රැලක් වී ඔබ පිස හමාවී
 Meaning - I will be close to you like a gentle breeze.
+source domain - breeze
+target domain - me
 
 c. පුර සඳක් වෙලා ඔබ අහසේ දිලේවී
 Meaning - you shine like a full moon in the sky.
+source domain - full moon
+target domain - lover

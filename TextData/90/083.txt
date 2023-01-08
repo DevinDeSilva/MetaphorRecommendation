@@ -43,6 +43,10 @@
 8. Metaphors:-
 a. හිරු සඳු සේ දරු රැක ගෙන‌.
 Meaning - constanly looking over your children (like the sun and moon are constant).
+source domain - sun and moon are constant
+target domain - taking care of children
 
 b. පැණි රස සේ දුක්‌ විඳ ගෙන‌.
 Meaning - Taking pain with a smile (like honey).
+source domain - honey taste
+target domain - accepting pain

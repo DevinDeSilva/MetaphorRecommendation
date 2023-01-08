@@ -57,3 +57,5 @@
 8. Metaphors:-
 a. බැලු බැලු හැමතැනම සිහිනෙන් වගේ සැඟවුණු සේයාවන් මදෙසේ ඇඳේ
 Meaning - I see a lot of shadows.
+source domain - dream
+target domain - the moment

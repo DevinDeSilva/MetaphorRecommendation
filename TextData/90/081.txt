@@ -30,3 +30,5 @@
 8. Metaphors:-
 a. නුඹේ මුහුණ කියාගන්න බැරි කවියකි දැන්‌.
 Meaning - The way you loo seems that your hiding something.
+source domain - hidden poem
+target domain - face
