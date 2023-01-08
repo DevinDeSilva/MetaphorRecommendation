@@ -76,6 +76,10 @@
 8. Metaphors:-
 a. ඔබගෙ මුදිතා ගුණ සාගරේ සදා
 Meaning - your patience was immense (like the ocean).
+source domain - ocean
+target domain - patience
 
 b. ඔබෙ සිහිලස සසරේ
 Meaning - your gentleness is endless
+source domain - endless
+target domain - gentleness

@@ -35,10 +35,12 @@
 
 5. Lyricist - උපුල්‌ ශාන්ත සන්නස්ගල
 
-6. Album - Life - Null
+6. Album - Life
 
 7. Year - 2008
 
 8. Metaphors:-
 a. ගලනවා ගඟ වගේ මං ඔබව ඉම්බා
 Meaning - I continously kissed you.
+source domain - flowing river
+target domain - kissed

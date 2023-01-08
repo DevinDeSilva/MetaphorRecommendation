@@ -33,3 +33,5 @@
 8. Metaphors:-
 a. සුවඳක්‌ සේ මා ළඟ රැදුනා..
 Meaning - your memories lingered with me (like a scent).
+source domain - scent
+target domain - lingering memories

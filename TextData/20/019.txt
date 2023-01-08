@@ -66,4 +66,6 @@
 
 8. Metaphors:-
 a. ගුම් නාදේ රෑනින් රෑනේ මී මැස්සන් රෑනක් සේ
-Meaning - You have a very beautiful complexion.
+Meaning - Sing energetically like bee hive.
+source domain - sounds bee hive 
+target domain - singing

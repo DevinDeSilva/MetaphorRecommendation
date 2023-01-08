@@ -72,6 +72,10 @@
 8. Metaphors:-
 a. ආ ඒ දෙව්ලිය ඔබම නොවෙද මට.
 Meaning - Your presence is like a goddess.
+source domain - goddess
+target domain - her
 
 b. නුඹෙ දෙතොල් වලින් මගේ දෙතොල් තවන විට ලොවක් මැවේ සුරපුරත් දැනේ මට.
 Meaning - I feel amazing/heavenly when we kiss.
+source domain - Heaven
+target domain - kiss

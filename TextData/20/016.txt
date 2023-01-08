@@ -37,6 +37,10 @@
 8. Metaphors:-
 a. සත්‌ පියුමන්‌ මත නුඹ අඩසඳකි
 Meaning - you look the most beautiful out of everyone to me.
+source domain - half moon
+target domain - lover
 
 b. ගැස්සෙන නුඹේ ලැම මට මල්දමකි
 Meaning - your body sways beautifully (like a necklace).
+source domain - flower necklace
+target domain - body

@@ -49,3 +49,5 @@
 8. Metaphors:-
 a. අයියා මගේ කවදත්‌ හොදයි සැමදා ලගින්‌ ඉන්නේ මගේ පණ සේ.
 Meaning - You are so nice, always near me (like my life).
+source domain - My life
+target domain - Brother

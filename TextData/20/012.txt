@@ -50,3 +50,5 @@
 8. Metaphors:-
 a. සුදු හංසියේ මිහිරාවියේ
 Meaning - Sweet girl(like a swarn).
+source domain - swarn
+target domain - girl

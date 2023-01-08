@@ -63,3 +63,5 @@ Along with the picture in a back of the morning tag
 8. Metaphors:-
 a. සියපතක පෙති අතරේ දැනෙන සුව විදගන්න කවදාද ඔබ එන්නේ
 Meaning - when are you coming for me to feel your gentle embrace (like a lotus) .
+source domain - lotus
+target domain - gentle embrace

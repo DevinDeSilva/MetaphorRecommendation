@@ -40,3 +40,5 @@
 8. Metaphors:-
 a. ඔබ වගේ බොනික්කො
 Meaning - you act like a innocent doll in my eyes.
+source domain - doll
+target domain - sister

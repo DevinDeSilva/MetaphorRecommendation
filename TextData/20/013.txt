@@ -43,3 +43,5 @@
 8. Metaphors:-
 a. නිල් දෑසින් බලාවි
 Meaning - looks from beutiful eyes.
+source domain - diamond
+target domain - eyes

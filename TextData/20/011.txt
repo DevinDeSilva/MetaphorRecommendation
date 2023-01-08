@@ -51,3 +51,5 @@
 8. Metaphors:-
 a. තරු නිවී ගිහින් නිල් අහස් තලේ ඈ නෙතු දැල්වේ
 Meaning - Your eyes are brighter than a star.
+source domain - star
+target domain - eyes

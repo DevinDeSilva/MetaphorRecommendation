@@ -62,6 +62,10 @@
 8. Metaphors:-
 a. සෙත් කවිය වගේ සෙත සදනා.
 Meaning - Generating blessings.
+source domain - Bless poem
+target domain - Blessing
 
 b. ගොවි බිම් ය අපේ දේවාලේ දෙවියන්ට වගේ ගරු ප්රේමේ.
 Meaning - Farm fields are sacred and the love and respect farmers.
+source domain - Sacred land
+target domain - Farm land

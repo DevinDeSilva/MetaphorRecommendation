@@ -69,3 +69,5 @@
 8. Metaphors:-
 a. ඔබ නොවේ ඈගේ සිහින මන්දිරේ
 Meaning - Your not the one she's dreaming about.
+source domain - Dream castle
+target domain - you

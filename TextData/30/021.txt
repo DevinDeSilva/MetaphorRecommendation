@@ -53,9 +53,5 @@
 8. Metaphors:-
 a. සඳ සේ පායා
 Meaning - Your shinning (like the moon).
-
-b. ගලන දිය වාගේ ළඟ නොරැඳී කොහේදෝ ඔබ ගියේ
-Meaning - Why do you always leave me(like flowing water always flow).
-
-c. දියසුලිය කුරීරූ වූ ලෙසේ ඇයිද ඔබ මාව හැඩවූයේ
-Meaning - Why do you make me cry.
+source domain - moon
+target domain - lover

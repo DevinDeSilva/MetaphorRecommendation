@@ -33,7 +33,7 @@
 මා රිදවන්නද සිතුවේ
 
 
-2. Song Name -  පානා සෙනෙහස
+2. Song Name -  සැන්දෑ අහස වගේ
 
 3. Voice - මාලනි බුලන්සිංහල
 
@@ -48,3 +48,5 @@
 8. Metaphors:-
 a. සැන්දෑ අහස වගේ සැරසී මට ඉන්න කියා
 Meaning - you look the most beautiful out of everyone to me.
+source domain - evening sky
+target domain - dressed

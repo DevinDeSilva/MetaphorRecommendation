@@ -76,6 +76,10 @@
 8. Metaphors:-
 a. හිම හංසියේ ඔබ නිල් අහස වගේ
 Meaning - You have a very beautiful complexion.
+source domain - beautiful sky
+target domain - complexion
 
 b. මගේ රත්තරන් ඔබ මිණි පහන වගේ
 Meaning - You lighten up my day
+source domain - lamp
+target domain - lover

@@ -45,9 +45,15 @@
 8. Metaphors:-
 a. සුළඟක්‌ වගේ ඔබ සොයා එන්න ඕනේ
 Meaning - I will try to find you constantly(like the wind).
+source domain - breeze
+target domain - looking for you
 
 b. ගලන දිය වාගේ ළඟ නොරැඳී කොහේදෝ ඔබ ගියේ
 Meaning - Why do you always leave me(like flowing water always flow).
+source domain - flowing water
+target domain - leaving
 
 c. දියසුලිය කුරීරූ වූ ලෙසේ ඇයිද ඔබ මාව හැඩවූයේ
 Meaning - Why do you make me cry.
+source domain - water current
+target domain - crying

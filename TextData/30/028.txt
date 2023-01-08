@@ -37,3 +37,5 @@
 8. Metaphors:-
 a. එකලු උනා ඔබ අකුණු පරිද්දෙන්‌.
 Meaning - You dissapeared quickly (like lightning).
+source domain - lightining
+target domain - You
