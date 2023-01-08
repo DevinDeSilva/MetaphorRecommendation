@@ -54,3 +54,5 @@
 8. Metaphors:-
 a. ඔබ ඇපල් මලක් වාගේ ලස්සන වසන්ත කාලේ.
 Meaning - She beauty shines (like a apple flower in summer).
+source domain - apple flower in summer
+target domain - shines

@@ -42,6 +42,10 @@
 8. Metaphors:-
 a. රණ මොණරිය පරදන නෙතූ සඟලක ගිමිකාරී.
 Meaning - Her eyes are so beutiful (like a peacocks).
+source domain - Peacock
+target domain - Eyes
 
 b. මිනි පරදන හඬ මුකරී ඔබ නොමැතිව හිඳිනු බැරී.
 Meaning - I need her as she brighten me up (like a diamond).
+source domain - Diamond
+target domain - beauty

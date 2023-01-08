@@ -39,3 +39,5 @@
 8. Metaphors:-
 a.කුරුළු බිලිදු හෙලන කළදුළු මහමෙරක්‌ යට තනිව මා උන්නා
 Meaning - I was concered about the childrens mourning due to you leaving.
+source domain - Birdlings
+target domain - children

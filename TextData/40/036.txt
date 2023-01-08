@@ -33,6 +33,10 @@
 8. Metaphors:-
 a.දේදුණු දෙබැමින් ඉඟිකරමින් හිනැහෙන විට
 Meaning - Hinting with your rainbow eyes (eyebrows) , smiling.
+source domain - rainbow eyes
+target domain - hinting
 
 b.බිළිඳකු‍ සේ ළමැදේ ගුලිවූ විටෙක ලොබින්
 Meaning - Sleeping like a baby.
+source domain - baby
+target domain - sleeping

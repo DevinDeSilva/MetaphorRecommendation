@@ -47,3 +47,5 @@
 8. Metaphors:-
 a. විදුලි ඇස් සිනාසේවී.
 Meaning - eyes sparkle like electricity.
+source domain - sparkle like electricity
+target domain - eyes

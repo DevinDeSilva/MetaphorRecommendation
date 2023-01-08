@@ -20,7 +20,7 @@
 විහඟ ගීතය...//
 
 
-2. Song Name -  රූප විරාජ
+2. Song Name -  විභභ ගීතය
 
 3. Voice - අමරසිරි පීරිස්‌,මාලනී බුලත්සිංහල
 
@@ -35,3 +35,5 @@
 8. Metaphors:-
 a. අදුර​ රජ වී අනේ දුනු හී ඇනී නිහඬ කුටියක විහඟ ගී ගොළුවී.
 Meaning - Nobody is there to listen to my sadness.
+source domain - deafness
+target domain - empty room

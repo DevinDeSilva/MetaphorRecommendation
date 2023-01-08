@@ -40,3 +40,5 @@
 8. Metaphors:-
 a. පිච්ච මල් රටා හිසලන පිච්චමල් හිනා පළඳින.
 Meaning - She smiles beautifully like a jasmine flower.
+source domain - jasmine flower
+target domain - smile

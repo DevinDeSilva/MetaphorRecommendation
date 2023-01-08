@@ -47,7 +47,11 @@ Let's pray that we remain friends...
 
 8. Metaphors:-
 a. සයුරේ රළ සේ අහසේ තරු සේ මිතුදම් පවතී ලොව සැමදා.
-Meaning - eyes sparkle like electricity.
+Meaning - frienship is forever.
+source domain - As ocean waves are permennet
+target domain - frienship
 
 b. සිතුවිලි ගඟ දිය නිඹඳ කළම්බන
 Meaning - Turbulent emotions like flowing river water.
+source domain - river water
+target domain - Turbulent emotions

@@ -48,3 +48,5 @@
 8. Metaphors:-
 a. මල්‌ පෙනි වාගේ පාද රිදෙද්දෞ.
 Meaning - will your gentle and sensitive (like flower petals) feet hurt.
+source domain - flower petals
+target domain - feet

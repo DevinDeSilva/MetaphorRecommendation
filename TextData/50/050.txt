@@ -32,3 +32,5 @@
 8. Metaphors:-
 a. පරණ වුනත්‌ ඒ කියමන්‌ හැමදාටම රන්තරන්‌.
 Meaning - These sayings are very important like gold.
+source domain - gold
+target domain - saying

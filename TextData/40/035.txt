@@ -35,9 +35,15 @@
 8. Metaphors:-
 a. තනි වී දෙවිඳුන්‌ නැති දෙවොලේ
 Meaning - Being emotionally lost.
+source domain - lonely temple
+target domain - lost
 
 b.ප්‍රාර්ථනා ගඟ උතුරා කඳුළැලි ගැලුවේ
 Meaning - Crying Due to all the broken promisses.
+source domain - flowing river
+target domain - broken promisses
 
 c.මන්දාරම්‌ අහස වැසූ මිහිදුම්‌ සළුවේ
 Meaning - Smoke covering the sky(like a clothe).
+source domain - clothe
+target domain - smoke

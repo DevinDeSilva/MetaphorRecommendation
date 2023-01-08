@@ -46,3 +46,5 @@
 8. Metaphors:-
 a. මිහිදුම් සළුවෙන් මුහුණ වසා.
 Meaning - Faced covered in fog like a cloth.
+source domain - clothe
+target domain - fog

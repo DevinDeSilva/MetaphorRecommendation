@@ -33,3 +33,5 @@
 8. Metaphors:-
 a. එක්වෙමු.. සුරකිමු... ලක්‌ මෑණියන්‌ සෑමදා...
 Meaning - unite and protect sri lanka (protect sri lanka like our mother).
+source domain - mother
+target domain - sri lanka

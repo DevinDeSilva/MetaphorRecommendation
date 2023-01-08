@@ -34,3 +34,5 @@
 8. Metaphors:-
 a. යෞවන වසන්තේ සිත්‌ සේ විදින්නයි.
 Meaning - Enjoy your teenage like (hearts in the summer).
+source domain - hearts in the summer
+target domain - enjoyment

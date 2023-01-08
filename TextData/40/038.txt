@@ -40,3 +40,5 @@
 8. Metaphors:-
 a.ස්නේහයේ නගරයයි සිත මගේ
 Meaning - My heart is filled with love.
+source domain - A city
+target domain - love

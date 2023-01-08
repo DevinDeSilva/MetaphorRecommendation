@@ -55,3 +55,5 @@
 8. Metaphors:-
 a. නීලමනී සේද නයන සොබනා.
 Meaning - Her eyes shine with beauty like blue diamonds.
+source domain - blue diamonds
+target domain - eyes

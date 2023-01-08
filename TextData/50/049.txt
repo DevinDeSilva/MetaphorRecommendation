@@ -40,6 +40,10 @@
 8. Metaphors:-
 a. අපාර මහ සාගරේ නැගෙන රැලි තරම් ඔබට තිබෙන ආදරේ.
 Meaning - I love you is emmense like the big waves of the sea.
+source domain - large water waves
+target domain - love
 
 b. අපරිමාණ අම්බරේ දිලෙන තරු තරම් ඔබට තිබෙන ආදරේ
 Meaning - My love for you is immeasurable like the uncoutable stars in the sky.
+source domain - uncountable stars
+target domain - love

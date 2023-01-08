@@ -41,6 +41,10 @@
 8. Metaphors:-
 a. විදුලිය ලෙස නෙත් කැළුම් විදාලන.
 Meaning - eyes sparkle like electricity.
+source domain - sparkle like electricity
+target domain - eyes
 
 b. සිතුවිලි ගඟ දිය නිඹඳ කළම්බන
 Meaning - Turbulent emotions like flowing river water.
+source domain - flowing water
+target domain - turbulent emotions

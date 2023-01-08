@@ -24,3 +24,5 @@
 8. Metaphors:-
 a. කල්පයක්‌ සේ ගෙවුණි කාලය පියුම් මිලින වුනේ.
 Meaning - within a huge time span (like eternity) flowers started dying.
+source domain - eternity
+target domain - time spent

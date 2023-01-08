@@ -49,7 +49,7 @@
 ඔබෙ නිතඹ පෙනේ මා දෑස පිනා
 
 
-2. Song Name -  නෙන ළඟ
+2. Song Name -  පා සළඹ සලා
 
 3. Voice - රනිදු ලංකාගේ
 
@@ -64,3 +64,5 @@
 8. Metaphors:-
 a. මා උමතු කරයි දැන් දෙව්ලිය ඔබ මනරම්.
 Meaning - She intrigues me with her beauty (like a goddess).
+source domain - godess
+target domain - beauty
